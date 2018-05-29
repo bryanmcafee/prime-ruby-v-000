@@ -5,6 +5,8 @@ def prime(number)
     end
   else return false
   end
+end
+
 
 
   
